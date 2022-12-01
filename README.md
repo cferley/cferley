@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cferley
 - 👀 I’m interested in almost everything but mainly data!
-- 🌱 I’m currently learning SQL, Python, Power BI, Tabeaul, Excel... you get the picture.
+- 🌱 I’m currently learning SQL, Python, Power BI, Tableau, Excel... you get the picture.
 - 💞️ I’m looking to collaborate on building a database. 
 - 📫 How to reach me is by email cynthia.ferley@gmail.com
 
